@@ -1,6 +1,6 @@
 Name:		texlive-graphpaper
 Version:	63116
-Release:	1
+Release:	2
 Summary:	A LaTeX class to generate several types of graph papers
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/graphpaper
